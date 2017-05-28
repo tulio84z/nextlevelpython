@@ -5,5 +5,4 @@ setup(name='NextLevelPython',
       description='Practicing some Python',
       author='Mtz',
       author_email='tulio84z@users.noreply.github.com',
-      packages=['nextlevelpython']
      )

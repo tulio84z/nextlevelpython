@@ -15,7 +15,8 @@ Clone the repository and install tox (http://tox.readthedocs.io/en/latest/exampl
 
 ## Tests
 
-Tox provides an easy way to test multiple versions of python
+Tox provides an easy way to test multiple versions of python.
+
 To run the tests of this repo using python 2.7:
 
 tox -e py27
