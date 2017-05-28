@@ -1,0 +1,5 @@
+.tox/
+*__pychache__/
+.cache/
+*.pyc
+MANIFEST
