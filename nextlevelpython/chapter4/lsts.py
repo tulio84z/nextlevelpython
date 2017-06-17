@@ -60,3 +60,4 @@ def test_nesting():
 
 	assert M[1] == [4,5,6]
 	assert M[1][2] == 6
+	
