@@ -1,9 +1,8 @@
 ## Synopsis
 
 This repo contains study code that follows the chapters of the book Learning Python 5e. 
-## Code Example
 
-Each Chapter directory refers to a chapter of the book and will contains pytest tests that demonstrate features of the python language
+Each Chapter directory refers to a chapter of the book and will contain pytest tests that demonstrate specific features of the python language, comparing versions 2.7 and 3.6 whenever appropriate
 
 ## Motivation
 
