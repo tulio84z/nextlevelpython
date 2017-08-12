@@ -29,7 +29,11 @@
       {% for comment in post.comments.all %}
         <br>
           {% if user.is_authenticated or comment.approved_comment %}
+<<<<<<< HEAD
             {{comment.created_date}}
+=======
+            {{%comment.created_date%}}
+>>>>>>> 546282478b33cc568fe6df1ac4a90f66b62c1087
               {% if not comment.approved_comment %}
 
                 <a class="btn btn-default" href="{% url 'comment_remove' pk=comment.pk %}">
