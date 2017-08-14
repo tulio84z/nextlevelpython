@@ -20,12 +20,12 @@ Tox provides an easy way to test multiple versions of python.
 
 To run the tests of this repo using python 2.7:
 
-tox -e py27
+`tox -e py27`
 
 To run with version 3.6:
 
-tox -e py36
+`tox -e py36`
 
 To run with both versions:
 
-tox
+`tox`
